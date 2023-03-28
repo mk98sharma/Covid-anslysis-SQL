@@ -1,4 +1,4 @@
-# Covid-anslysis-SQL
+# Covid-analysis-SQL
 SQL COVID Analysis
 This repository contains SQL code for analyzing COVID-19 data using the COVID-19 Data Repository provided by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE).
 <img width="943" alt="Screenshot 2023-03-24 231420" src="https://user-images.githubusercontent.com/77893734/227653208-7d588793-d17d-4b6a-b757-8b62accc4b6d.png">
